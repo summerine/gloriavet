@@ -2,24 +2,35 @@
 	font-family: 'Montserrat', sans-serif;
 }
 
+.navbar-fixed-top {
+	min-height: 100px;
+}
 .navbar {
 	margin-bottom: 0;
 	background-color:  #EFEFEF;
 	z-index: 1;
 	border: 0;
 	font-size: 12pt;
-	border-radius: 0;
 }
 
 .navbar-default .navbar-nav > li > a:hover{
 	color:#FF383F;
 }
 
+.navbar-nav > li > a {
+	padding-top: 70px;
+}
+
+.navbar-brand {
+	padding-top: 50px;
+	font-size: 20pt;
+}
+
 #myCarousel img {
 	opacity: 0.8;
 }
 
-.container-fluid {
+#contact {
 	padding: 60px 50px;
 }
 
@@ -30,6 +41,7 @@
 
 .logo {
 	font-size: 250px;
+	padding-top: 40px;
 }
 
 @media screen and (max-width: 768px){
@@ -48,6 +60,14 @@
 	.carousel-caption {
 		display: none;
 	}
+}
+
+.carousel-caption h1, .carousel-caption p {
+	font-size: 20pt;
+}
+
+#collapse {
+	display: none;
 }
 
 .panel {
@@ -82,7 +102,15 @@
 	background-color: #A9A9A9;
 }
 
+.form-control {
+	border-radius: 0;
+}
+textarea {
+	resize: none;
+}
+
 footer {
 	background-color: #EFEFEF;
+	padding: 50px;
 
 }
