@@ -1,4 +1,4 @@
-# glorivet-sample-companyprofile 
+# gloriavet-sample-companyprofile 
 
 This website is created for Gloriavet company profile. 
 Gloriavet is one of the vet clinics in Bandung City 
@@ -9,10 +9,10 @@ Gloriavet is one of the vet clinics in Bandung City
 * Googlefonts Montserrat - Used for typography
 
 ## Sources
-* Photos: [Unsplash] (https://www.unsplash.com) - Photos belong to respective owners
-* Colors: [Departika from U.S.A] (https://www.awwwards.com/sites/departika) - Website colors 
+* Photos: [Unsplash] (https://unsplash.com) - Photos belong to respective owners
+* Colors: [Departika from U.S.A] (https://awwwards.com/sites/departika) - Website colors 
 
 ## Acknowledgements 
 * Gloriavet Bandung City 
-* [St. Paul Vet] (https://www.stpaulvet.com) - For inspirations
-* [w3schools] (https://www.w3schools.com) - For references 
+* [St. Paul Vet] (https://stpaulvet.com) - For inspirations
+* [w3schools] (https://w3schools.com) - For references 
