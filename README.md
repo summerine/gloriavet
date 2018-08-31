@@ -1,7 +1,7 @@
 # gloriavet-sample-companyprofile 
 
 This website is created for Gloriavet company profile. 
-Gloriavet is one of the vet clinics in Bandung City 
+Gloriavet is one of the vet clinics in Bandung City.
 
 ## Built with 
 * Bootstrap 3.3.7 - Used as web structure
